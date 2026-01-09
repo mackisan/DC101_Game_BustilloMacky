@@ -34,6 +34,3 @@ GitHub Pages Link:
 
 https://github.com/mackisan/DC101_Game_BustilloMacky.git
 
-Play here:
-
-http://127.0.0.1:5500/index.html
