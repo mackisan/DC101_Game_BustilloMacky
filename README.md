@@ -31,3 +31,5 @@ Open index.html using any web browser (Chrome, Edge, Firefox).
 Click on the cards to start playing and match all pairs to win.
 
 GitHub Pages Link:
+
+https://github.com/mackisan/DC101_Game_BustilloMacky.git
